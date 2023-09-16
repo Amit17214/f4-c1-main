@@ -6,7 +6,7 @@ import "./style.css";
 function App() {
 	return (
 		// <div>
-		// 	<h1>My name is chirag Mittal</h1>
+		// 	<h1>My name is Amit Singh</h1>
 		// </div>
 
 		// <Section />
